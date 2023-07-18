@@ -1,2 +1,2 @@
 
-console.log('hello matematika');
+console.log('hello indo');
